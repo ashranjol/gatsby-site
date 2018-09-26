@@ -8,7 +8,7 @@ const IndexPage = () => (
     I’m a Software Developer with a passion for building the most effective applications possible.
     For over 3 years,I’ve worked in an educational institute, a startup and now in a multinational company to solve problems with the latest technologies and develop most efficient code for the applications.
     I currently develop web applications for quality department at Rheem Manufacturing Company.
-    My responsibilities also include leading co-op and enforce SDLC using agile methodologies.</p>
+    My responsibilities also include leading co-op and run SDLC effectively using agile methodologies.</p>
     <p style={{textAlign:'justify'}}>
     I love to be around people and work in a team set up. I’m a self & fast learner.
     I love to discuss new ideas and never hesitate to ask questions.
@@ -26,7 +26,7 @@ const IndexPage = () => (
     <li>Highly interested in Machine Learning and Graph theory concepts.</li>
     <li>Familiar with data analysis using R and Python (numpy and pandas).</li>
 
-    
+
   </ul>
 
 
